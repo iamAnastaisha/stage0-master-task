@@ -34,7 +34,6 @@ public class ArrayTasks {
      * Find the sum of all elements of the int[] array.
      * <p>
      * Example:
-     * <p>
      * arr = [1, 3, 5]   -> sum = 9 arr = [5, -3, -4] -> sum = -2
      */
     public int totalSum(int[] arr) {
