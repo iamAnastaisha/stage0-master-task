@@ -6,7 +6,7 @@ public class IntegerDivider {
         if (divider == 0) {
             System.out.println("division by zero");
         } else {
-            double result = (dividend * 1.) / divider;
+            double result = dividend / divider;
             if (dividend == result * divider) {
                 System.out.println("can be divided completely");
             } else {
